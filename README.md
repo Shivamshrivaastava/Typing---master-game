@@ -4,7 +4,8 @@ A beautiful, full-featured typing speed and accuracy game built with React, Type
 
 ![Typing Master Game](https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 [live link](https://typing-master-the-game.netlify.app/)
-
+---
+[video-link](https://youtu.be/puZGbPxbwlc)
 ## ✨ Features
 
 ### 🎯 Core Gameplay
